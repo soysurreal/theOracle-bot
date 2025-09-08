@@ -3,11 +3,10 @@ html {
   height: 100%;
 }
 
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
+body {
+background-color: mistyrose;
 }
+
 
 html,
 body {
@@ -23,24 +22,26 @@ body {
 
 h2 {
   font-size: 1.1em;
+  font-family: Luminari;
+  color: palevioletred;
 }
 
 #contenedor {
   margin: auto 1em;
   text-align: center;
-
 }
 
 #tituloPagina {
-  margin-top: 1em;
-  margin-bottom: 0;
-  font-family: sans-serif;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  font-family: Luminari;
+  color: palevioletred;
 }
 
 #foto {
- height: 300px;
-  border: #ff7300 solid 5px;
-  margin-top: 15px;
+height: 600px;
+margin-top: 15px;
+margin-bottom: 15px;
 }
 
 .tituloPrediccion {
@@ -57,7 +58,8 @@ h2 {
 
 #boton {
   font-size: 0.9em;
-  background-color: #3d00fdb5;
+  background-color: palevioletred;
+  font-family: Luminari;
   color: white;
   margin-bottom: 2em;
   cursor: pointer;

@@ -1,17 +1,38 @@
 // Crear las listas de imágenes, títulos y frases
 const imagenes = [
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-3.jpg",
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-4.jpg",
+  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/0.png",
+  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/1.png",
+  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/2.png",
+  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/3.png",
+  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/4.png",
+  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/5.png",
+  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/0.png",
+  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/7.png",
+  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/8.png",
 ];
 
 const titulos = [
-  "Tortuga morrocoy",
-  "Ranita venenosa",
+  "El loco",
+  "El mago",
+  "La suma sacerdotisa",
+  "La emperatriz",
+  "El emperador",
+  "Hierofante",
+  "Los amantes",
+  "El carro",
+  "La justicia",
 ];
 
 const frases = [
-  "Te alimentas de plantas, frutas, hojas y flores. Vives en bosques de climas cálidos y prefieres la tierra que el agua.",
-  "Eres pequeña pero tu extravagancia no pasa desapercibida. Vives en bosques húmedos y lluviosos y tienes veneno en la piel.",
+  "Ten el coraje suficiente para confiar en ti misma.",
+  "Tienes todas las herramientas para manejar la realidad a tu antojo.",
+  "Confía en la sabiduría de tu voz interna.",
+  "Traes abundancia a tu vida y todo lo que te rodea.",
+  "Protege tus límites y deja ir lo que está fuera de tu control.",
+  "Encuentra un espacio seguro donde las personas te acepten tal como eres.",
+  "El amor se revela todos los días mediante la cotidianidad.",
+  "Sabes cuando ejercer determinación y cuando dejar ir.",
+  "Eres responsable de tus propias acciones.",
 ];
 
 // Trae los elementos del HTML que tienen ese id
