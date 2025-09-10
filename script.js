@@ -6,7 +6,7 @@ const imagenes = [
   "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/3.png",
   "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/4.png",
   "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/5.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/0.png",
+  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/6.png",
   "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/7.png",
   "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/8.png",
   "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/9.png",
