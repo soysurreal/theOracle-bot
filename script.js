@@ -1,27 +1,27 @@
 // Crear las listas de imágenes, títulos y frases
 const imagenes = [
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/0.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/1.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/2.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/3.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/4.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/5.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/6.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/7.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/8.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/9.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/10.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/11.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/12.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/13.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/14.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/15.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/16.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/17.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/18.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/19.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/20.png",
-  "https://en.gallery-kaikaikiki.com/wp-content/uploads/2022/03/21.png",
+"../theOracle-bot/tarot/0.png",
+"../theOracle-bot/tarot/1.png",
+"../theOracle-bot/tarot/2.png",
+"../theOracle-bot/tarot/3.png",
+"../theOracle-bot/tarot/4.png",
+"../theOracle-bot/tarot/5.png",
+"../theOracle-bot/tarot/6.png",
+"../theOracle-bot/tarot/7.png",
+"../theOracle-bot/tarot/8.png",
+"../theOracle-bot/tarot/9.png",
+"../theOracle-bot/tarot/10.png",
+"../theOracle-bot/tarot/11.png",
+"../theOracle-bot/tarot/12.png",
+"../theOracle-bot/tarot/13.png",
+"../theOracle-bot/tarot/14.png",
+"../theOracle-bot/tarot/15.png",
+"../theOracle-bot/tarot/16.png",
+"../theOracle-bot/tarot/17.png",
+"../theOracle-bot/tarot/18.png",
+"../theOracle-bot/tarot/19.png",
+"../theOracle-bot/tarot/20.png",
+"../theOracle-bot/tarot/21.png",
 ];
 
 const titulos = [
@@ -72,6 +72,7 @@ const frases = [
   "Siente la felicidad de estar viva.",
   "Despierta a tu llamada.",
   "Tú perteneces.",
+
 ];
 
 // Trae los elementos del HTML que tienen ese id
